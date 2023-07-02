@@ -146,11 +146,8 @@
             "version": "==3.5.1"
         },
         "netron": {
-            "hashes": [
-                "sha256:3af30c7311d85606a03d3b073a3571b6eab9370fceb51e7830934be2840322a9"
-            ],
             "index": "pypi",
-            "version": "==5.6.4"
+            "version": "==7.0.2"
         },
         "numpy": {
             "hashes": [
